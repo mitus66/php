@@ -1,5 +1,3 @@
 <?php
 
-include __DIR__ . '/vendor/autoload.php';
-
-//include "src/api/random-animail.phtml";
+include __DIR__ . './api/random-animal.phtml';
